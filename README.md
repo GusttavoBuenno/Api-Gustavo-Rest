@@ -17,6 +17,7 @@ Minha linha de raciocínio foi basicamente dividida em 3 etapas.
 // Na criação do código API, percebi uma certa padronização, modificando apenas as informações mais complexas para mim, quando o test no POSTMAN, foi feito e vendo que os resultados eram exatamente o que eu precisava, fiquei extremamente feliz; //
 
 Para criar a API estudei no link abaixo:
+
 https://www.youtube.com/watch?v=Q9oVStZ1DJA&t=2046s
 
 (Gerenciamento do token)
