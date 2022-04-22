@@ -7,9 +7,6 @@ sobre rest, restful, JWT, oque era Eslint.
 
 Minha linha de raciocinio foi basicamente em 3 etapas.
 
-#1 - entender como funcionava e o porque do API
-#2 - entender o codigo padronizado
-#3 - tentar fazer o maximo e compreender oque estava sendo codificado.
 
 // Bom utilizei o JWT, como uma const para validar se o usuario, realemente tem acesso para gerar o token, Se for incluido com sucesso o token e gerado e COD 200 OK , coloquei tambem uma expiração de tempo de 300s, podendo futuramente colocar um sitema de refresh token, ou pedir para que o usuario faça uma nova requisição.  obs: usando tambem senha secreta, com a const SECRET //
 
