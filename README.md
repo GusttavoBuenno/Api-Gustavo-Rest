@@ -1,26 +1,25 @@
 ## TESTE MOBI ##
 
-Bom iniciei o projeto sendo sincero sem conhecimento nenhum sobre API'S, foram algumas horas de pesquisas para ter um raciocionio em mente, e poder ter um norte.. onde começar, dando inicio as primeiras linhas de codigos, espero ter feito o minimo possivel e abaixo vou colocar algumas informações de como consegui chegar nesse resultado mais que satisfatorio para mim. 
+Sendo sincero foi a primeira vez que trabalhei num projeto sobre API'S, foram algumas horas de pesquisas para ter um raciocínio claro, e ter um norte de por onde começar dando início as primeiras linhas de códigos, e assim dando forma ao projeto. Estou colocando algumas informações de como consegui chegar neste resultado extremamente satisfatório para mim.
 
 sobre rest, restful, JWT, oque era Eslint.
 
 
-Minha linha de raciocinio foi basicamente em 3 etapas.
+Minha linha de raciocínio foi basicamente dividida em 3 etapas.
 
 
-// Bom utilizei o JWT, como uma const para validar se o usuario, realemente tem acesso para gerar o token, Se for incluido com sucesso o token e gerado e COD 200 OK , coloquei tambem uma expiração de tempo de 300s, podendo futuramente colocar um sitema de refresh token, ou pedir para que o usuario faça uma nova requisição.  obs: usando tambem senha secreta, com a const SECRET //
+// Utilizei o JWT, como uma const para validar se o usuário, realmente tem acesso para gerar o token, se for incluído com sucesso o token e gerado e COD 200 OK , coloquei também uma expiração de tempo de 300s, podendo futuramente colocar um sistema de refresh token, ou pedir para que o usuário faça uma nova requisição. obs: usando também senha secreta, com a const SECRET //
 
 
-// De forma geração a formatação do codido API é bem simples, portanto eu nao tinha conhecimendo nenhum sobre o assunto até este momento, trazendo um projeto bem interessante para ser estudado, desda criação das rotas ou criação do JWT gerando o token de validação  //
+// Dar forma a geração e a formatação do codido API é bem simples, eu não tinha conhecimento sobre este tema até o momento, trazendo um projeto bem interessante para ser estudado, desde a criação das rotas ou criação do JWT gerando o token de validação //
 
 
-// Na criação do codigo API, percebi uma certa padronização, modificando apenas as informações mais complexas, no meu caso especificamente, ainda nao tinha tido a oportunidade de trabalhar ou testar algo assim, e quando o test no POSTMAN, foi feito e vendo os resultados sendo examente oque eu precisava, me deu mais vontade de aprender sobre o assunto;  //
+// Na criação do código API, percebi uma certa padronização, modificando apenas as informações mais complexas para mim, quando o test no POSTMAN, foi feito e vendo que os resultados eram exatamente o que eu precisava, fiquei extremamente feliz; //
 
-(criando api)
+Para criar a API estudei no link abaixo:
 https://www.youtube.com/watch?v=Q9oVStZ1DJA&t=2046s
 
-(gerenciamento do token)
+(Gerenciamento do token)
 https://www.youtube.com/watch?v=D0gpL8-DVrc&t=316s
 
-
-Bom, espero ter feito um bom trabalho. até já !
+Espero ter feito um bom trabalho, e entregue o resultado esperado. Até já!
