@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=Q9oVStZ1DJA&t=2046s
 https://www.youtube.com/watch?v=D0gpL8-DVrc&t=316s
 
 
-Bom, espero ter conseguido o minimo possivel. até já !
+Bom, espero ter feito um bom trabalho. até já !
