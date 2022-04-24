@@ -1,6 +1,6 @@
 ## TESTE MOBI ##
 
-Sendo sincero foi a primeira vez que trabalhei num projeto sobre API'S, foram algumas horas de pesquisas para ter um raciocínio claro, e ter um norte de por onde começar dando início as primeiras linhas de códigos, e assim dando forma ao projeto. Estou colocando algumas informações de como consegui chegar neste resultado extremamente satisfatório para mim.
+Sendo sincero foi a primeira vez que trabalhei em um projeto sobre API'S, foram algumas horas de pesquisas para ter um raciocínio claro, e ter um norte de por onde começar dando início as primeiras linhas de códigos, e assim dando forma ao projeto. Estou colocando algumas informações de como consegui chegar neste resultado extremamente satisfatório para mim.
 
 sobre rest, restful, JWT, oque era Eslint.
 
